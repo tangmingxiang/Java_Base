@@ -6,6 +6,9 @@ public class HelloWorld {
         float f = 293.0f;
         double db = 3242252;
         a = (int) Math.pow(2, 31);
+        System.out.println(-8<<2);
+        System.out.println(-8>>2);
+        System.out.println(011);
         System.out.println(1 == 2 != false);
         System.out.println(10 == 10.0);
         System.out.println(a);
